@@ -1,0 +1,23 @@
+.noaccount_body{
+    margin-top: 150px;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.noaccount_body button{
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #92f884;
+    border-radius: 5px;
+}
+.noaccount_body button:hover{
+  background-color: #5bf547;
+}
+@media screen and (max-width:500px){
+ 
+  .noaccount_body button{
+    background-color: #5bf547;
+  }
+ 
+}

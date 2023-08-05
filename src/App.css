@@ -1,0 +1,20 @@
+* {
+    font-family: 'Jost', sans-serif;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .circle {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle h2 {
+    margin-left: 10px;
+  }
+  .rootbd{
+    min-height: 70vh;
+  }

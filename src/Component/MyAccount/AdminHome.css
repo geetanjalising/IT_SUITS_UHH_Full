@@ -1,0 +1,72 @@
+.adminbd{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logout_btn{
+margin: 30px;
+padding: 10px;
+border-radius: 4px;
+background-color: rgb(103, 220, 190);
+cursor: pointer;
+}
+
+.adminbd logout_btn:hover{
+    background-color: antiquewhite;
+    box-shadow: 1px 1px 1px;
+}
+
+
+
+.adminbd h1{
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 2px rgb(228, 218, 218);
+}
+
+.adminbd table{
+    table-layout:fixed;
+    background-color: rgb(222, 209, 209);
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px;
+     width: 90vw;
+  /* height: 100vh; */
+}
+
+@media only screen and (max-width: 480px) {
+    /* horizontal scrollbar for tables if mobile screen */
+    .table {
+        overflow-x: auto;
+        display: block;
+        width: 100vw;
+    }
+}
+table tr th{
+    border: 1px solid black;
+    /* margin-bottom: 10px; */
+    padding: 10px;
+    background-color: rgb(79, 237, 184);
+}
+table tr td{
+    border: 1px solid black;
+    /* margin-bottom: 10px; */
+    padding: 10px;
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    word-wrap: break-word;
+    background-color: rgb(228, 248, 196);
+}
+.cartbutton{
+  
+padding: 8px;
+border-radius: 4px;
+background-color: rgb(103, 220, 190);
+cursor: pointer;
+}
+.cartbutton:hover{
+    background-color: antiquewhite;
+    box-shadow: 1px 1px 1px;
+}
+
+

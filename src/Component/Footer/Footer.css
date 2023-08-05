@@ -1,0 +1,28 @@
+.footer_container{
+   color: aliceblue;
+    display: flex;
+    background-color: rgb(54, 52, 62);
+    justify-content:space-evenly;
+   width: 100%;
+   padding-top: min(50px, 10%);
+}
+
+/* footer{
+   margin-top: auto;
+  } */
+
+.footer_container p{
+ font-size: 13px;
+}
+
+.lastDetails {
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    padding: 5px 0px;
+    letter-spacing: .3px;
+ 
+}
+.footer_details_one{
+    margin-top: 20px;
+}

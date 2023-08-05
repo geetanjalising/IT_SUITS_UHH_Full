@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0605834.css",
+    "main.js": "/static/js/main.e962e90d.js",
+    "static/js/787.76a7ae0b.chunk.js": "/static/js/787.76a7ae0b.chunk.js",
+    "static/media/cart_gif.gif": "/static/media/cart_gif.2a3bddea0fef5b7d20cd.gif",
+    "static/media/Van_gif.gif": "/static/media/Van_gif.839ea17fa4ea310451ed.gif",
+    "static/media/images.jpg": "/static/media/images.dac857ca4c6b8799296a.jpg",
+    "static/media/fashion.jpg": "/static/media/fashion.08ebb228515b79c23ea9.jpg",
+    "static/media/discount.jpg": "/static/media/discount.60f91b089d7748705f76.jpg",
+    "static/media/Cartoon.png": "/static/media/Cartoon.53b76e09da7d19abfe7a.png",
+    "static/media/fashion2.jpeg": "/static/media/fashion2.ca2882780c642fca696d.jpeg",
+    "static/media/logo.png": "/static/media/logo.012dc7b0f3356a397ace.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.e0605834.css.map": "/static/css/main.e0605834.css.map",
+    "main.e962e90d.js.map": "/static/js/main.e962e90d.js.map",
+    "787.76a7ae0b.chunk.js.map": "/static/js/787.76a7ae0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0605834.css",
+    "static/js/main.e962e90d.js"
+  ]
+}

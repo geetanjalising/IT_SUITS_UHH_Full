@@ -1,0 +1,55 @@
+.userBd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 80px;
+    border: 2px solid black;
+width: fit-content;
+padding: 30px;
+border-radius: 5px;
+box-shadow: 2px 2px 2px;
+background-color: rgb(116, 181, 181,0.3);
+}
+.userbtn{
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.main{
+    background: url("./cart_gif.gif");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+
+.userBd2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.userBd2 h1{
+ margin-bottom: 15px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btnlogout1{
+    background-color:#0e0e0e;
+    cursor: pointer;
+    outline: none;
+    border-radius: 15px;
+    color: #1c1f1f;
+    padding: 5px 10px 5px 10px;
+    letter-spacing: .5px;
+    font-size: 14px;
+    box-shadow: 0 0 10px -5px rgba(0,0,0,.5);
+}
+.userBd2 button{
+    border-radius: 4px;
+    background-color: rgb(213, 220, 80);
+}
+
+.userBd2 button:hover{
+    background-color: rgb(216, 180, 81);
+    box-shadow: 1px 1px 1px;
+}

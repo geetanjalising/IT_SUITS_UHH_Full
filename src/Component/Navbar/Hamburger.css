@@ -1,0 +1,43 @@
+.avtar1{
+margin-top: 20px;
+margin-left: 100px;
+background-color: rgb(18, 155, 57) !important;
+}
+
+.hamburger1 h2{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.navbtn{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+#element:hover{
+   background-color: rgb(212, 210, 210);
+   display: inline;
+   padding: 4px;
+}
+.navbtn a{
+    text-decoration: none;
+    font-size: 16px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #131921;
+}
+
+
+.navbtn .logout{
+    display: flex;
+    align-items: center;
+}
+.hamburger1{
+    width: 280px;
+}
+.hamburger1 img{
+    height: 90px;
+    margin-left: 30px;
+    margin-top: 14px;
+}

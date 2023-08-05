@@ -1,0 +1,45 @@
+.product_section2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 40px;
+}
+.product_img2 img{
+    height: 250px;
+    width: fit-content;
+     z-index: -1;
+  
+  }
+  .products_name2{
+    color: black;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px white;
+
+  }
+  .products_offer2{
+    color: black;
+  }
+  .products_explore2{
+    color: red;
+    background-color: yellow;
+    padding: 2px;
+    border-radius: 4px;
+  }
+ .para2{
+    margin-top: -75px;
+    display: flex ;
+    flex-direction: column ;
+    align-items: center;
+ }
+  .products_items2{
+    margin-top: 40px;
+    margin-right: 10px;
+    
+    box-shadow: 3px 3px 4px 3px gray;
+  }
+  .products_items2:hover{
+    box-shadow: 3px 3px 4px 5px gray;
+  }

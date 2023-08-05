@@ -1,0 +1,18 @@
+.category_body{
+    display: flex;
+    padding-top: 20px;
+}
+.radio{
+    display: flex;
+    flex-direction: row;
+    margin: 8px;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+    font-weight: bold;
+}
+.mainbd{
+    padding-top: 90px;  
+}
